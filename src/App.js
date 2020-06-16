@@ -4,7 +4,7 @@ import Message from './message.js';
 
 function App() {
   let [count,setcount]=useState(0);
-  let [isMorning,setMorning]=useState(true);
+  
 
   return (
     <div className="box">
